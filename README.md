@@ -1,4 +1,10 @@
 # SOEN6011-_F5
+
+SOEN 6011
+SOFTWARE ENGINEERING PROCESSES
+PROFESSOR : Pankaj Kamthan
+Student : Bariq Ishtiaq Mohammed
+
 To implement the  transcendental function
  F1: arccos(x)
  F2: tan(x)
@@ -9,5 +15,5 @@ To implement the  transcendental function
  F7: x^y
  F8: σ
 
-The function I am implenting in this repo is
+The function I am implementing in this repo is
 F5- ab^x
