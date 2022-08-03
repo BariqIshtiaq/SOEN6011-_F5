@@ -2,7 +2,13 @@
 
 SOEN 6011
 SOFTWARE ENGINEERING PROCESSES
+
+
+
 PROFESSOR : Pankaj Kamthan
+
+
+
 Student : Bariq Ishtiaq Mohammed
 
 To implement the  transcendental function
